@@ -1,4 +1,4 @@
---Readme document for *YOUR NAME*, *YOUR_EMAIL@uci.edu*--
+--Readme document for Ethan Kosaki, ekosaki@uci.edu--
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
@@ -13,7 +13,7 @@ It took me about 7 hours to complete this assignment.
 
 
 3. What online resources did you consult when completing this assignment? (list sites like StackOverflow or specific URLs for tutorials; describe queries to Generative AI or use of AI-based code completion)
-As someone who has worked on frontend development projects/jobs for years in javascript and typescript, I did not need a lot of resources to complete this assignment. However, I did use generative AI to help me understand how to properly implement the vega lite. I used it in the format of teaching me the proper schema, and giving me a sample setup for the system, which I then implemented. Beyond that, I used js/ts library pages such as MDN Web Docs (such as https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString) to look up more specific functions.
+As someone who has worked on frontend development projects/jobs for years in javascript and typescript, I did not need a lot of resources to complete this assignment. However, I did use generative AI to help me understand how to properly implement the vega lite as well as understand this weird table implementation (as I am used to more traditional methods). I used it in the format of teaching me the proper schema, and giving me a sample setup for the system, which I then implemented. Beyond that, I used js/ts library pages such as MDN Web Docs (such as https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString) to look up more specific functions.
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 None
